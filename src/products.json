@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Urban Nomad Tee",
+    "description": "A minimalist, lightweight t-shirt designed for city explorers, featuring breathable fabric and a relaxed fit.",
+    "thumbnail": "../src/assets/images/S1.jpg",
+    "price": 50,
+    "btw": 0.21,
+    "stock": 20
+  },
+  {
+    "id": 2,
+    "title": "Vintage Vibes Tee",
+    "description": "A retro-inspired shirt with faded graphics and a soft, washed-out look for that perfect worn-in feel.",
+    "thumbnail": "../src/assets/images/S2.jpg",
+    "price": 50,
+    "btw": 0.21,
+    "stock": 19
+  },
+  {
+    "id": 3,
+    "title": "Eco Warrior Shirt",
+    "description": "Made from 100% organic cotton, this shirt is perfect for the environmentally conscious, offering style with sustainability.",
+    "thumbnail": "../src/assets/images/S3.jpg",
+    "price": 60,
+    "btw": 0.21,
+    "stock": 18
+  },
+  {
+    "id": 4,
+    "title": "Tech Trail Shirt",
+    "description": "A moisture-wicking performance shirt designed for outdoor adventures, with quick-dry fabric and UV protection.",
+    "thumbnail": "../src/assets/images/S4.jpg",
+    "price": 40,
+    "btw": 0.21,
+    "stock": 17
+  },
+  {
+    "id": 5,
+    "title": "Coastal Breeze Polo",
+    "description": "A classic polo shirt with a modern twist, featuring a breathable mesh design and subtle nautical accents.",
+    "thumbnail": "../src/assets/images/S5.jpg",
+    "price": 60,
+    "btw": 0.21,
+    "stock": 16
+  },
+  {
+    "id": 6,
+    "title": "Artisan Craft Tee",
+    "description": "A hand-dyed, artisanal shirt with unique patterns, ensuring that no two pieces are exactly the same.",
+    "thumbnail": "../src/assets/images/S6.jpg",
+    "price": 30,
+    "btw": 0.21,
+    "stock": 15
+  },
+  {
+    "id": 7,
+    "title": "Street Style Henley",
+    "description": "A casual yet stylish Henley shirt with a modern fit, perfect for layering or wearing solo.",
+    "thumbnail": "../src/assets/images/S7.jpg",
+    "price": 40,
+    "btw": 0.21,
+    "stock": 30
+  },
+  {
+    "id": 8,
+    "title": "Maritime Stripes Tee",
+    "description": "A sailor-inspired shirt with bold horizontal stripes, bringing a touch of the sea to your wardrobe.",
+    "thumbnail": "../src/assets/images/S8.jpg",
+    "price": 40,
+    "btw": 0.21,
+    "stock": 22
+  },
+  {
+    "id": 9,
+    "title": "Rustic Flannel Shirt",
+    "description": "A rugged flannel shirt with a soft interior, ideal for chilly days and outdoor activities.",
+    "thumbnail": "../src/assets/images/S9.jpg",
+    "price": 50,
+    "btw": 0.21,
+    "stock": 23
+  },
+  {
+    "id": 10,
+    "title": "Minimalist Pocket Tee",
+    "description": "A sleek and simple t-shirt with a single chest pocket, perfect for a clean, understated look.",
+    "thumbnail": "../src/assets/images/S10.jpg",
+    "price": 60,
+    "btw": 0.21,
+    "stock": 4
+  },
+  {
+    "id": 11,
+    "title": "Classic White Oxford",
+    "description": "A timeless, crisp white Oxford shirt that pairs well with both casual and formal outfits.",
+    "thumbnail": "../src/assets/images/S9.jpg",
+    "price": 80,
+    "btw": 0.21,
+    "stock": 3
+  },
+  {
+    "id": 12,
+    "title": "Boho Chic Blouse",
+    "description": "A flowing, bohemian-inspired blouse with intricate embroidery and loose sleeves for a relaxed vibe.",
+    "thumbnail": "../src/assets/images/S8.jpg",
+    "price": 40,
+    "btw": 0.21,
+    "stock": 2
+  },
+  {
+    "id": 13,
+    "title": "Metro Plaid Shirt",
+    "description": "A modern take on the classic plaid shirt, featuring bold colors and a slim fit for urban appeal.",
+    "thumbnail": "../src/assets/images/S7.jpg",
+    "price": 50,
+    "btw": 0.21,
+    "stock": 5
+  },
+  {
+    "id": 14,
+    "title": "Graphic Statement Tee",
+    "description": "A bold t-shirt with eye-catching graphics, perfect for making a statement and showcasing your personality.",
+    "thumbnail": "../src/assets/images/S6.jpg",
+    "price": 25,
+    "btw": 0.21,
+    "stock": 6
+  },
+  {
+    "id": 15,
+    "title": "Weekend Comfort Hoodie",
+    "description": "A cozy, oversized hoodie with a soft lining, perfect for lounging or casual outings.",
+    "thumbnail": "../src/assets/images/S5.jpg",
+    "price": 30,
+    "btw": 0.21,
+    "stock": 28
+  },
+  {
+    "id": 16,
+    "title": "Athleisure Crew Neck",
+    "description": "A versatile crew neck shirt made from stretchy, breathable fabric, ideal for both workouts and everyday wear.",
+    "thumbnail": "../src/assets/images/S4.jpg",
+    "price": 50,
+    "btw": 0.21,
+    "stock": 1
+  },
+  {
+    "id": 17,
+    "title": "Elegant Tunic Top",
+    "description": "A long, flowing tunic top with a flattering silhouette, perfect for pairing with leggings or skinny jeans.",
+    "thumbnail": "../src/assets/images/S3.jpg",
+    "price": 40,
+    "btw": 0.21,
+    "stock": 33
+  },
+  {
+    "id": 18,
+    "title": "Denim Button-Up",
+    "description": "A durable denim shirt with a classic button-up design, great for layering or wearing on its own.",
+    "thumbnail": "../src/assets/images/S2.jpg",
+    "price": 80,
+    "btw": 0.21,
+    "stock": 43
+  },
+  {
+    "id": 19,
+    "title": "Sunset Dip Dye Tee",
+    "description": "A t-shirt with a gradient dip-dye effect, reminiscent of a summer sunset, adding a splash of color to your outfit.",
+    "thumbnail": "../src/assets/images/S4.jpg",
+    "price": 100,
+    "btw": 0.21,
+    "stock": 32
+  },
+  {
+    "id": 20,
+    "title": "Luxe Linen Shirt",
+    "description": "A lightweight linen shirt that’s perfect for warm weather, offering breathability and a touch of sophistication.",
+    "thumbnail": "../src/assets/images/S6.jpg",
+    "price": 30,
+    "btw": 0.21,
+    "stock": 39
+  }
+]
